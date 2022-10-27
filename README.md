@@ -5,4 +5,4 @@ paso 2) Descargar este codigo en donde dice "download zip" o mediante el comando
 
 paso 3) Luego en la consola CMD ejecutar: "cd" luego introducir la ruta del archivo de python en este caso "C:\Users\estudiantes\Downloads"
 
-paso 4) En la siguiente linea introducir el nombre del archivo de tu programa ejmplo:"python .py" y se ejecutara tu programa.
+paso 4) En la siguiente linea introducir el nombre del archivo de tu programa ejmplo:"python holamundo.py" y se ejecutara tu programa.
